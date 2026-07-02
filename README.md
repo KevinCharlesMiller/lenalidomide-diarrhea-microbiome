@@ -54,4 +54,4 @@ Note, FLORAL (Supp Fig 2C–E) can take some time to run.
 
 MIT — see `LICENSE`.
 
-Segemnts of code generated with Claude Opus 4.6
+Segments of code for analysis generated with Claude Opus 4.6
