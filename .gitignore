@@ -1,9 +1,16 @@
-# ---- DATA: never commit (code-only repository) ----
+# ---- DATA ----
 data/*
 !data/README.md
 *.rds
 *.csv
 *.xlsx
+
+# ---- R / RStudio artifacts ----
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
 
 # ---- Generated outputs ----
 figures/*
@@ -13,6 +20,11 @@ Results/
 *.png
 *.pdf
 *.html
+
+# ---- PHI / identifiers ----
+*LINKAGE*
+*PRIVATE*
+*MRN*
 
 # ---- OS ----
 .DS_Store
