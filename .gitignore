@@ -1,0 +1,33 @@
+# ---- DATA: never commit (code-only repository) ----
+data/*
+!data/README.md
+*.rds
+*.csv
+*.tsv
+*.xlsx
+
+# ---- PHI / identifiers: never commit under any circumstance ----
+*LINKAGE*
+*linkage*
+*PRIVATE*
+*MRN*
+
+# ---- Generated outputs ----
+figures/*
+!figures/.gitkeep
+Results/
+*.svg
+*.png
+*.pdf
+*.html
+
+# ---- R / RStudio artifacts ----
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
