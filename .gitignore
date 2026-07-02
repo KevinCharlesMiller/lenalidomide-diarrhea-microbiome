@@ -3,14 +3,7 @@ data/*
 !data/README.md
 *.rds
 *.csv
-*.tsv
 *.xlsx
-
-# ---- PHI / identifiers: never commit under any circumstance ----
-*LINKAGE*
-*linkage*
-*PRIVATE*
-*MRN*
 
 # ---- Generated outputs ----
 figures/*
@@ -20,13 +13,6 @@ Results/
 *.png
 *.pdf
 *.html
-
-# ---- R / RStudio artifacts ----
-.Rproj.user/
-.Rhistory
-.RData
-.Ruserdata
-*.Rproj
 
 # ---- OS ----
 .DS_Store
