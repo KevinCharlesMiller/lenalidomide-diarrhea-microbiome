@@ -44,10 +44,10 @@ Note, FLORAL (Supp Fig 2C–E) can take some time to run.
 | `R/00_setup.R` | shared setup (sourced by all) |
 | `R/figure1.R` | Figure 1 (1A–1E); Supp Fig 1A–1D |
 | `R/figure2.R` | Figure 2 (2A–2E); Supp Fig 2A–2E |
-| `R/figure3.R` | Figure 3 (3A–3C); Supp Fig 3A–3D, Supp Fig 4C/4D, Supplemental Table 8 |
+| `R/figure3.R` | Figure 3 (3A–3C); Supp Fig 3A–3D, Supp Fig 4C/4D, Supplemental Table 9 |
 | `R/figure4.R` | Figure 4 (4A–4G); Supp Fig 4A/4B |
 | `R/figure5.R` | Figure 5 (5A/5B); Supp Fig 5A–5D |
-| `R/gee_models.R` | Supplemental Tables 4–6 (GEE models) |
+| `R/gee_models.R` | Supplemental Tables 5–7 (GEE models) |
 
 
 ## License
